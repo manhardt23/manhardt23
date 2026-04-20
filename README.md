@@ -28,7 +28,7 @@ Senior Computer Science student at Syracuse University (B.S., May 2026). I build
  
 ### What I'm learning next
  
-Distributed systems fundamentals. Currently reading *Designing Data-Intensive Applications* (2nd ed., Kleppmann) and extending the Email Tracker into a two-service architecture with a message queue between the ingestion worker and the API — a chance to apply the replication, partitioning, and fault-tolerance ideas from the book to something I actually run. Picking up Go on the side.
+Distributed systems fundamentals. Currently reading *Designing Data-Intensive Applications* (2nd ed., Kleppmann) and extending the Email Tracker into a two-service architecture with a message queue between the ingestion worker and the API, a chance to apply the replication, partitioning, and fault-tolerance ideas from the book to something I actually run. Picking up Go on the side.
  
 ---
  
