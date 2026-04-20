@@ -1,6 +1,6 @@
 ## Jacob Manhardt
  
-Senior Computer Science student at Syracuse University (B.S., May 2026). I build backend systems — mostly Python/FastAPI services with Postgres, deployed on AWS with Docker and GitHub Actions CI/CD. Open to new-grad and summer 2026 SWE roles, relocation-friendly.
+Senior Computer Science student at Syracuse University (B.S., May 2026). I build backend systems, mostly Python/FastAPI services with Postgres, deployed on AWS with Docker and GitHub Actions CI/CD. Open to new-grad and summer 2026 SWE roles, relocation-friendly.
  
 📍 Syracuse, NY · 📫 jemanhardt@comcast.net · [LinkedIn](https://www.linkedin.com/in/jacob-manhardt/)
  
